@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Beijing
-- 🌱 I’m currently learning Golang
-- 💬 I'm a python developer
+- ⚡ Python/Golang/JavaScript/vue.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lpdswing&show_icons=true&theme=radical)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=lpdswing" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpdswing&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
